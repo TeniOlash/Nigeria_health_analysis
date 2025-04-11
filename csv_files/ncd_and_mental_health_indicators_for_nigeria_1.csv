@@ -1,0 +1,61 @@
+indicator_code,indicator_name,year,sex,cause_code,cause_name,indicator_value
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2000,Female,GHE061,Malignant neoplasms,41264
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2000,Male,GHE061,Malignant neoplasms,24189
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2000,Both sexes,GHE061,Malignant neoplasms,65453
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2000,Female,GHE110,Cardiovascular diseases,98369
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2000,Male,GHE110,Cardiovascular diseases,74053
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2000,Both sexes,GHE110,Cardiovascular diseases,172422
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2000,Female,GHE118,Chronic obstructive pulmonary disease,12603
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2000,Male,GHE118,Chronic obstructive pulmonary disease,12192
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2000,Both sexes,GHE118,Chronic obstructive pulmonary disease,24795
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2000,Female,GHE080,Diabetes mellitus,9407
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2000,Male,GHE080,Diabetes mellitus,6734
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2000,Both sexes,GHE080,Diabetes mellitus,16142
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2005,Female,GHE061,Malignant neoplasms,40476
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2005,Male,GHE061,Malignant neoplasms,26106
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2005,Both sexes,GHE061,Malignant neoplasms,66583
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2005,Female,GHE110,Cardiovascular diseases,106722
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2005,Male,GHE110,Cardiovascular diseases,81293
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2005,Both sexes,GHE110,Cardiovascular diseases,188016
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2005,Female,GHE118,Chronic obstructive pulmonary disease,14071
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2005,Male,GHE118,Chronic obstructive pulmonary disease,12996
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2005,Both sexes,GHE118,Chronic obstructive pulmonary disease,27067
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2005,Female,GHE080,Diabetes mellitus,11753
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2005,Male,GHE080,Diabetes mellitus,7515
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2005,Both sexes,GHE080,Diabetes mellitus,19267
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2010,Female,GHE061,Malignant neoplasms,38867
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2010,Male,GHE061,Malignant neoplasms,29864
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2010,Both sexes,GHE061,Malignant neoplasms,68730
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2010,Female,GHE110,Cardiovascular diseases,108151
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2010,Male,GHE110,Cardiovascular diseases,86986
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2010,Both sexes,GHE110,Cardiovascular diseases,195136
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2010,Female,GHE118,Chronic obstructive pulmonary disease,15475
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2010,Male,GHE118,Chronic obstructive pulmonary disease,13390
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2010,Both sexes,GHE118,Chronic obstructive pulmonary disease,28865
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2010,Female,GHE080,Diabetes mellitus,13099
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2010,Male,GHE080,Diabetes mellitus,8189
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2010,Both sexes,GHE080,Diabetes mellitus,21288
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2015,Female,GHE061,Malignant neoplasms,43678
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2015,Male,GHE061,Malignant neoplasms,34636
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2015,Both sexes,GHE061,Malignant neoplasms,78314
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2015,Female,GHE110,Cardiovascular diseases,118663
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2015,Male,GHE110,Cardiovascular diseases,98629
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2015,Both sexes,GHE110,Cardiovascular diseases,217293
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2015,Female,GHE118,Chronic obstructive pulmonary disease,17236
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2015,Male,GHE118,Chronic obstructive pulmonary disease,14663
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2015,Both sexes,GHE118,Chronic obstructive pulmonary disease,31900
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2015,Female,GHE080,Diabetes mellitus,15196
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2015,Male,GHE080,Diabetes mellitus,9558
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2015,Both sexes,GHE080,Diabetes mellitus,24754
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2016,Female,GHE061,Malignant neoplasms,45558
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2016,Male,GHE061,Malignant neoplasms,35993
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2016,Both sexes,GHE061,Malignant neoplasms,81551
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2016,Female,GHE110,Cardiovascular diseases,122857
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2016,Male,GHE110,Cardiovascular diseases,102745
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2016,Both sexes,GHE110,Cardiovascular diseases,225602
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2016,Female,GHE118,Chronic obstructive pulmonary disease,17684
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2016,Male,GHE118,Chronic obstructive pulmonary disease,15299
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2016,Both sexes,GHE118,Chronic obstructive pulmonary disease,32984
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2016,Female,GHE080,Diabetes mellitus,15821
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2016,Male,GHE080,Diabetes mellitus,9991
+SDG_SH_DTH_RNCOM,"Number of deaths attributed to non-communicable diseases, by type of disease and sex",2016,Both sexes,GHE080,Diabetes mellitus,25811

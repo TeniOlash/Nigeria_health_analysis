@@ -1,0 +1,80 @@
+indicator_code,indicator_name,year,indicator_value
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2005,20753412
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2006,21721592
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2007,23464448
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2008,23599876
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2009,26378374
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2012,29032404
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2010,29116332
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2011,30439546
+NTD_BEJELSTATUS,Status of bejel endemicity,2013,
+NTD_PINTASTATUS,Status of pinta endemicity,2013,
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2006,4
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2007,6
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2008,7
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2005,8
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2009,
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2010,
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2005,2
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2006,0
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2007,1
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2008,0
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2009,0
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2010,0
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2011,0
+NTD_ONCHEMO,Estimated number of individuals in the country requiring preventive chemotherapy for onchocerciasis,2013,50124539
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2013,28661160
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2012,0
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2013,0
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2011,95
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2013,0
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2012,57
+NTD_ONCHEMO,Estimated number of individuals in the country requiring preventive chemotherapy for onchocerciasis,2014,51392689
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2014,44415242
+NTD_ONCHEMO,Estimated number of individuals in the country requiring preventive chemotherapy for onchocerciasis,2015,47484244
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2015,35271150
+NTD_LEISHCNUM_IM,Number of imported cases of cutaneous leishmaniasis reported,2013,0
+NTD_LEISHCNUM_IM,Number of imported cases of cutaneous leishmaniasis reported,2014,0
+NTD_LEISHCNUM_IM,Number of imported cases of cutaneous leishmaniasis reported,2015,0
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2014,5
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2015,0
+NTD_LEISHVNUM_IM,Number of imported cases of visceral leishmaniasis reported,2013,0
+NTD_LEISHVNUM_IM,Number of imported cases of visceral leishmaniasis reported,2014,0
+NTD_LEISHVNUM_IM,Number of imported cases of visceral leishmaniasis reported,2015,0
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2014,0
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2015,0
+NTD_LEISHCNUM_IM,Number of imported cases of cutaneous leishmaniasis reported,2016,
+NTD_LEISHVNUM_IM,Number of imported cases of visceral leishmaniasis reported,2016,
+NTD_ONCHEMO,Estimated number of individuals in the country requiring preventive chemotherapy for onchocerciasis,2016,53083821
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2016,35362158
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2016,
+NTD_ONCHEMO,Estimated number of individuals in the country requiring preventive chemotherapy for onchocerciasis,2017,49900711
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2017,40013199
+NTD_LEISHVNUM_IM,Number of imported cases of visceral leishmaniasis reported,2017,
+NTD_ONCHSTATUS,Status of endemicity of onchocerciasis,2019,
+NTD_ONCHEMO,Estimated number of individuals in the country requiring preventive chemotherapy for onchocerciasis,2018,55771190
+NTD_ONCTREAT,Reported number of individuals treated for onchocerciasis,2018,44060727
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2016,0
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2017,0
+NTD_LEISHVNUM,Number of cases of visceral leishmaniasis reported,2018,
+NTD_LEISHCEND,Status of endemicity of cutaneous leishmaniasis,2018,
+NTD_LEISHCNUM_IM,Number of imported cases of cutaneous leishmaniasis reported,2017,0
+NTD_LEISHCNUM_IM,Number of imported cases of cutaneous leishmaniasis reported,2018,0
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2017,55
+NTD_LEISHCNUM,Number of cases of cutaneous leishmaniasis reported,2018,
+NTD_LEISHVEND,Status of endemicity of visceral leishmaniasis,2018,
+NTD_LEISHVNUM_IM,Number of imported cases of visceral leishmaniasis reported,2018,
+NTD_YAWSEND,Status of yaws endemicity,2018,
+NTD_YAWSNUM_CONF,Number of confirmed yaws cases reported,2017,
+NTD_YAWSNUM_CONF,Number of confirmed yaws cases reported,2018,
+NTD_YAWSNUM_SUSP,Number of suspected yaws cases reported,2008,
+NTD_YAWSNUM_SUSP,Number of suspected yaws cases reported,2009,
+NTD_YAWSNUM_SUSP,Number of suspected yaws cases reported,2010,
+NTD_YAWSNUM_SUSP,Number of suspected yaws cases reported,2011,
+NTD_YAWSNUM_SUSP,Number of suspected yaws cases reported,2012,
+NTD_YAWSNUM_SUSP,Number of suspected yaws cases reported,2013,
+NTD_YAWSNUM_SUSP,Number of suspected yaws cases reported,2014,0
+NTD_YAWSNUM_SUSP,Number of suspected yaws cases reported,2015,
+NTD_YAWSNUM_SUSP,Number of suspected yaws cases reported,2016,
+NTD_YAWSNUM_SUSP,Number of suspected yaws cases reported,2017,
+NTD_YAWSNUM_SUSP,Number of suspected yaws cases reported,2018,
