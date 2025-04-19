@@ -1,21 +1,21 @@
-"year","cause_name","yearly_total_mortality"
-2000,"Lower respiratory infections",1074.66462
-2000,"Cardiovascular diseases",828.95941
-2000,"Injuries",449.97505
-2000,"HIV/AIDS",403.18469999999996
-2000,"Stroke",386.90373999999997
-2000,"Diarrhoeal diseases",385.18531
-2000,"Digestive diseases",384.00073
-2000,"Malignant neoplasms",362.01728
-2000,"Unintentional injuries",350.51923
-2000,"Ischaemic heart disease",282.12686
-2012,"Lower respiratory infections",867.77244
-2012,"Cardiovascular diseases",797.1907100000001
-2012,"HIV/AIDS",509.54869999999994
-2012,"Injuries",435.96966
-2012,"Stroke",371.4363
-2012,"Unintentional injuries",348.90328
-2012,"Digestive diseases",343.20068
-2012,"Malignant neoplasms",324.55291
-2012,"Ischaemic heart disease",277.53716999999995
-2012,"Diarrhoeal diseases",140.58566
+"year","cause_name","yearly_total_mortality","yoy_change","yoy_pct_change","yearly_rank","pct_of_year_total"
+2012,"Lower respiratory infections",867.77244,-206.89218000000005,"-19.25","1","19.65"
+2012,"Cardiovascular diseases",797.1907100000001,-31.768699999999967,"-3.83","2","18.05"
+2012,"HIV/AIDS",509.54869999999994,106.36399999999998,"26.38","3","11.54"
+2012,"Injuries",435.96966,-14.005390000000034,"-3.11","4","9.87"
+2012,"Stroke",371.4363,-15.467439999999954,"-4.00","5","8.41"
+2012,"Unintentional injuries",348.90328,-1.615949999999998,"-0.46","6","7.90"
+2012,"Digestive diseases",343.20068,-40.80005,"-10.62","7","7.77"
+2012,"Malignant neoplasms",324.55291,-37.46437000000003,"-10.35","8","7.35"
+2012,"Ischaemic heart disease",277.53716999999995,-4.5896900000000755,"-1.63","9","6.28"
+2012,"Diarrhoeal diseases",140.58566,-244.59965000000003,"-63.50","10","3.18"
+2000,"Lower respiratory infections",1074.66462,"","","1","21.90"
+2000,"Cardiovascular diseases",828.95941,"","","2","16.89"
+2000,"Injuries",449.97505,"","","3","9.17"
+2000,"HIV/AIDS",403.18469999999996,"","","4","8.22"
+2000,"Stroke",386.90373999999997,"","","5","7.88"
+2000,"Diarrhoeal diseases",385.18531,"","","6","7.85"
+2000,"Digestive diseases",384.00073,"","","7","7.82"
+2000,"Malignant neoplasms",362.01728,"","","8","7.38"
+2000,"Unintentional injuries",350.51923,"","","9","7.14"
+2000,"Ischaemic heart disease",282.12686,"","","10","5.75"
